@@ -6,4 +6,4 @@ It is comprised of teams and repositories.</p>
   <li>list repositories</li>
 </ul>
 
-<p>Visit https://community.wmo.int/activity-areas/wmo-information-system-wis for more descriptions and official resources.<p> 
+<p>Visit the <link href="https://community.wmo.int/activity-areas/wmo-information-system-wis">Community Site</a> for more descriptions and official resources.<p> 
