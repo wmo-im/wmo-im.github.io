@@ -8,4 +8,4 @@ This is a working space for WMO experts to maintain and improve upon the WMO Inf
 - list teams
 - list repositories
 
-Visit the [https://community.wmo.int/activity-areas/wmo-information-system-wis](Community Site)for descriptions and to access published resources. 
+Visit the [Community Site](https://community.wmo.int/activity-areas/wmo-information-system-wis) for descriptions and to access published resources. 
