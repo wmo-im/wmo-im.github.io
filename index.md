@@ -1,9 +1,9 @@
 
+![wmo log](wmoLogo2.png)
+
 # WMO Information Management 
 
-![wmo log](wmoLogo2.png)
 This is a working space for WMO experts to maintain and improve upon the WMO Information System (WIS). 
-It is comprised of teams and repositories.
 
 - list teams
 - list repositories
