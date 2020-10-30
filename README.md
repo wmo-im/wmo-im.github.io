@@ -1,4 +1,5 @@
 ## Welcome to the World Meteorological Organization GitHub for Information Management
-It is composed of repositories for managing changes to WMO Information System (WIS) manuals and guides and members of WMO Expert Teams are the contributors. 
+This is a working space for WMO experts to maintain and improve upon the WMO Information System (WIS).
 
-For more information about WIS, visit the WMO https://community.wmo.int website.
+Visit the [Community website](https:community.wmo.int) for more information about WIS and to access published resources.
+
