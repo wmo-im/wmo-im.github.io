@@ -1,17 +1,15 @@
 Visit the [WMO Community Site](https://community.wmo.int/activity-areas/wmo-information-system-wis) for descriptions and to access published resources. 
 
-If you are a member of an Expert Team, visit the [wmo-im wiki](https://github.com/wmo-im/wmo-im.github.io/wiki) for guidance and workflows.
+If you are a member of an Expert or Task Team, visit the [wmo-im wiki](https://github.com/wmo-im/wmo-im.github.io/wiki) for general guidance and workflows or find the relevant quick link below. 
 
-
-## Teams
+---
+## Links for Expert and Task Teams
 1. Task Force on WIS2 (TF-WIS2)
     * Communication
     * Wiki
     * Repositories
 1. Expert Team on Audit and Certification (ET-AC)
-    * Communication
-    * Wiki
-    * Repositories
+    * [Communication](https://github.com/orgs/wmo-im/teams/et-ac)
 1. Expert Team on Metadata Standards (ET-Metadata)
     1. Task Team on WIS Metadata (TT-WISMD)
        * Communication
@@ -22,10 +20,11 @@ If you are a member of an Expert Team, visit the [wmo-im wiki](https://github.co
        * Wiki
        * Repositories
 1. Expert Team on Data Standards (ET-Data)
+    * [Communication](https://github.com/orgs/wmo-im/teams/et-data)
     1. Task Team on Table Driven Code Forms (TT-TDCF)
-       * Communication
-       * Wiki
-       * Repositories
+       * [Communication](https://github.com/orgs/wmo-im/teams/tt-tdcf)
+       * [Wiki](https://github.com/wmo-im/CCT/wiki)
+       * Repositories: [CCT](https://github.com/wmo-im/CCT), [GRIB2](https://github.com/wmo-im/GRIB2), [BUFR4](https://github.com/wmo-im/BUFR4)
     1. Task Team on CF-NetCDF (TT-CFNetCDF)
        * Communication
        * Wiki
