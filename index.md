@@ -16,7 +16,6 @@ If you are a member of an Expert or Task Team, visit the [wmo-im wiki](https://g
 |  | Task Team on Table Driven Code Forms (TT-TDCF)      | [Communication](https://github.com/orgs/wmo-im/teams/tt-tdcf), [Wiki](https://github.com/wmo-im/CCT/wiki), [CCT](https://github.com/wmo-im/CCT), [GRIB2](https://github.com/wmo-im/GRIB2), [BUFR4](https://github.com/wmo-im/BUFR4) |
 | | Task Team on CF-NetCDF (TT-CFNetCDF)      |     |
 | | Task Team on Aviation Data (TT-AvData)      |     |
-| | Task Team on CF-NetCDF (TT-CFNetCDF)      |     |
 
 1. Expert Team on Information Management (ET-IM)
     * Communication
