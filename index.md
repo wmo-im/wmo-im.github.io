@@ -9,7 +9,7 @@ If you are a member of an Expert or Task Team, visit the [wmo-im wiki](https://g
 |:-------------                                    |:-------------                                 |:----- |
 | Task Force on WIS2 (TF-WIS2)                     |                                               |  |
 | Expert Team on Audit and Certification (ET-AC)   |                                               |[Communication](https://github.com/orgs/wmo-im/teams/et-ac) |
-| Expert Team on Metadata Standards (ET-Metadata)  |                                               |     |
+| Expert Team on Metadata Standards (ET-Metadata)                                                |     |
 |                                                  | Task Team on WIS Metadata (TT-WISMD)          |     |
 |                                                  | Task Team on WIGOS Metadata (TT-WIGOSMD)      |     |
 | Expert Team on Data Standards (ET-Data)          |                                               | [Communication](https://github.com/orgs/wmo-im/teams/et-data) |
