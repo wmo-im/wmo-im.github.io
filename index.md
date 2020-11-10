@@ -4,35 +4,20 @@ If you are a member of an Expert or Task Team, visit the [wmo-im wiki](https://g
 
 ---
 ## Links for Expert and Task Teams
-1. Task Force on WIS2 (TF-WIS2)
-    * Communication
-    * Wiki
-    * Repositories
-1. Expert Team on Audit and Certification (ET-AC)
-    * [Communication](https://github.com/orgs/wmo-im/teams/et-ac)
-1. Expert Team on Metadata Standards (ET-Metadata)
-    1. Task Team on WIS Metadata (TT-WISMD)
-       * Communication
-       * Wiki
-       * Repositories
-    1. Task Team on WIGOS Metadata (TT-WIGOSMD)
-       * Communication
-       * Wiki
-       * Repositories
-1. Expert Team on Data Standards (ET-Data)
-    * [Communication](https://github.com/orgs/wmo-im/teams/et-data)
-    1. Task Team on Table Driven Code Forms (TT-TDCF)
-       * [Communication](https://github.com/orgs/wmo-im/teams/tt-tdcf)
-       * [Wiki](https://github.com/wmo-im/CCT/wiki)
-       * Repositories: [CCT](https://github.com/wmo-im/CCT), [GRIB2](https://github.com/wmo-im/GRIB2), [BUFR4](https://github.com/wmo-im/BUFR4)
-    1. Task Team on CF-NetCDF (TT-CFNetCDF)
-       * Communication
-       * Wiki
-       * Repositories
-    1. Task Team on Aviation Data (TT-AvData)
-       * Communication
-       * Wiki
-       * Repositories
+
+| Expert Team   | Task Team    | Links |
+|:------------- |:-------------|:----- |
+| Task Force on WIS2 (TF-WIS2)      |  |  |
+| Expert Team on Audit and Certification (ET-AC)      |       |[Communication](https://github.com/orgs/wmo-im/teams/et-ac) |
+| Expert Team on Metadata Standards (ET-Metadata) |       |     |
+|  | Task Team on WIS Metadata (TT-WISMD)      |     |
+| Task Team on WIGOS Metadata (TT-WIGOSMD) |       |     |
+| Expert Team on Data Standards (ET-Data) |       |    [Communication](https://github.com/orgs/wmo-im/teams/et-data) |
+|  | Task Team on Table Driven Code Forms (TT-TDCF)      | [Communication](https://github.com/orgs/wmo-im/teams/tt-tdcf), [Wiki](https://github.com/wmo-im/CCT/wiki), [CCT](https://github.com/wmo-im/CCT), [GRIB2](https://github.com/wmo-im/GRIB2), [BUFR4](https://github.com/wmo-im/BUFR4) |
+| | Task Team on CF-NetCDF (TT-CFNetCDF)      |     |
+| | Task Team on Aviation Data (TT-AvData)      |     |
+| | Task Team on CF-NetCDF (TT-CFNetCDF)      |     |
+
 1. Expert Team on Information Management (ET-IM)
     * Communication
     * Wiki
