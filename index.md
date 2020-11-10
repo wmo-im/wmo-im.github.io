@@ -11,7 +11,7 @@ If you are a member of an Expert or Task Team, visit the [wmo-im wiki](https://g
 | Expert Team on Audit and Certification (ET-AC)      |       |[Communication](https://github.com/orgs/wmo-im/teams/et-ac) |
 | Expert Team on Metadata Standards (ET-Metadata) |       |     |
 |  | Task Team on WIS Metadata (TT-WISMD)      |     |
-| Task Team on WIGOS Metadata (TT-WIGOSMD) |       |     |
+|  | Task Team on WIGOS Metadata (TT-WIGOSMD)      |     |
 | Expert Team on Data Standards (ET-Data) |       |    [Communication](https://github.com/orgs/wmo-im/teams/et-data) |
 |  | Task Team on Table Driven Code Forms (TT-TDCF)      | [Communication](https://github.com/orgs/wmo-im/teams/tt-tdcf), [Wiki](https://github.com/wmo-im/CCT/wiki), [CCT](https://github.com/wmo-im/CCT), [GRIB2](https://github.com/wmo-im/GRIB2), [BUFR4](https://github.com/wmo-im/BUFR4) |
 | | Task Team on CF-NetCDF (TT-CFNetCDF)      |     |
