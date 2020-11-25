@@ -1,3 +1,11 @@
+---
+name: Meeting Template
+about: Use to create a meeting page on wiki
+title: ''
+labels: ''
+assignees: ''
+
+---
 ## Date/Time
 
 
