@@ -4,4 +4,4 @@ Visit the [WMO Community Site](https://community.wmo.int/activity-areas/wmo-info
 
 If you are a member of an Expert or Task Team, visit the [wmo-im wiki](https://github.com/wmo-im/wmo-im.github.io/wiki) for guidance and workflows.
 
-\[Meetings\](/meetings)
+[Meetings](/meetings)
