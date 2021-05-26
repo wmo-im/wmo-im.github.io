@@ -1,0 +1,8 @@
+title GitHub Branch Management
+
+Master-->FT Branch:create at start of \nnew FT cycle, \nrebase if needed
+FT Branch-->Issue Branch: create when issue \nis in validation
+Issue Branch->FT Branch: merge after \nvalidation, \nand delete
+FT Branch->Master: merge after \nWMO adoption \nand delete
+FT Branch-->>Release Candidate: tag RC during NFP review,\n delete after WMO adoption
+Master-->Release Tag: final release
